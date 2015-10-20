@@ -1,4 +1,4 @@
-# leaflet-measure
+#  leaflet-measure
 
 Coordinate, linear, and area measure control for [Leaflet](http://leafletjs.com) maps. Extends [L.Control](http://leafletjs.com/reference.html#control).
 
